@@ -1,5 +1,4 @@
 .btn-wrapper {
-  /* el contenedor del botón ocupa toma el 100% del padre, es decir, del BODY */
   width: 100%;
   display: flex;
   flex-direction: column;

@@ -9,7 +9,6 @@ function App() {
   const handleDiceNumber = () => {
     let number = parseInt(Math.random() * 6 + 1);
     setDiceNumber(number);
-    console.log(diceNumber);
   };
 
   return (
